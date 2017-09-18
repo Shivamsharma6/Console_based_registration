@@ -1,0 +1,2 @@
+To use this project, you have to first change the directory inside Project.java file.
+You have to enter the path where you wanna perform operations.
